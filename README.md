@@ -43,8 +43,8 @@
 <h1 align="center">My Github Statistics 📈</h1>
 <div align="center">
   
-  ![stats](https://github-readme-stats.vercel.app/api?username=melvinchia3636&theme=vue)
-  ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&langs_count=8)
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&theme=vue" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&langs_count=8" />
   
 </div>
 
