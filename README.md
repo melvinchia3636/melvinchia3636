@@ -23,6 +23,10 @@
   
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2888?logoColor=white%26project=%26recentMS=0%26showProject=true" />
+</div>
+
 <br/>
 
 <h1 align="center">About Me! 😎</h1>
