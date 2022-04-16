@@ -32,13 +32,13 @@
 <h1 align="center">About Me! 😎</h1>
 <div align="center"> 
   
-  - 🏫: I'm a 16 years old Senior High School Student.
-  - 🔭: I’m currently working on lots of cool web apps.
-  - 🌱: I’m currently learning new frontend & CSS frameworks. 🖥
-  - 🤔: I’m looking for help with something that can give me motivation! 💪
-  - 💬: Ask me about Web scraping, Javscript, Python, databases, API, UI designs, and anything about web development.
-  - 😄  Pronouns: He/His
-  - ⚡  Fun fact: I always start new projects before finishing old one. 🙃
+  🏫: I'm a 16 years old Senior High School Student.
+  🔭: I’m currently working on lots of cool web apps.
+  🌱: I’m currently learning new frontend & CSS frameworks. 🖥
+  🤔: I’m looking for help with something that can give me motivation! 💪
+  💬: Ask me about Web scraping, Javscript, Python, databases, API, UI designs, and anything about web development.
+  😄  Pronouns: He/His
+  ⚡  Fun fact: I always start new projects before finishing old one. 🙃
   
 </div>
 
