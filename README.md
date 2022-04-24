@@ -17,6 +17,7 @@
   ![skills](https://img.shields.io/badge/-ANGULAR_JS-FF0000?style=for-the-badge&logo=angularjs&logoColor=white&color=yellow)
   ![skills](https://img.shields.io/badge/-MYSQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
   ![skills](https://img.shields.io/badge/-MONGODB-FF0000?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen)
+  ![skills](https://img.shields.io/badge/-FIREBASE-FF0000?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
   ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
   ![skills](https://img.shields.io/badge/-DJANGO-FF0000?style=for-the-badge&logo=django&logoColor=white&color=darkgreen)
   ![skills](https://img.shields.io/badge/-FIGMA-FF0000?style=for-the-badge&logo=figma&logoColor=white&color=red)
@@ -54,11 +55,8 @@
 <h1 align="center">My Github Statistics 📈</h1>
 <div align="center">
   
-  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&theme=vue" />
-  <br/>
-  <br/>
-  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&langs_count=8&theme=vue" />
-  
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24" />
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24" />
 </div>
 
 <br/>
@@ -66,22 +64,22 @@
 <h1 align="center">Projects I'm Working On ⌨️</h1>
 
 <a href="https://github.com/melvinchia3636/gitinfo">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=gitinfo" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=gitinfo&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/MCS">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=MCS" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=MCS&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/cruisegator">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=cruisegator" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=cruisegator&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/codeblog-frontend">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog-frontend" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog-frontend&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/CB-Cloud">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=CB-Cloud" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=CB-Cloud&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/codeblog_blog">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog_blog" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog_blog&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 
 <br/>
