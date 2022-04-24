@@ -1,5 +1,7 @@
 <h1 align="center">Hey There 👋 I'm Melvin Chia</h1>
-<p align="center">A passionate teenager full-stack developer and UI designer with a vision of creativity</p>
+<h4 align="center">FULL STACK DEVELOPER | UI/UX DESIGNER</h4>
+<h6 align="center">CREATIVITY | VISIONARY | INNOVATIVE</p>
+<br/>
 
 <div align="center">
   
