@@ -55,7 +55,7 @@
 <h1 align="center">My Github Statistics 📈</h1>
 <div align="center">
   
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24" />
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24&include_all_commits=true" />
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&bg_color=22272e&hide_border=true&text_color=ffffff&title_color=fbbf24" />
 </div>
 
