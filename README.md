@@ -77,14 +77,14 @@
 <a href="https://github.com/anuraghazra/melvinchia3636/cruisegator">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=cruisegator&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
-<a href="https://github.com/anuraghazra/melvinchia3636/codeblog-frontend">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog-frontend&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
+<a href="https://github.com/anuraghazra/melvinchia3636/codeblogV9">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblogV9&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
-<a href="https://github.com/anuraghazra/melvinchia3636/CB-Cloud">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=CB-Cloud&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
+<a href="https://github.com/anuraghazra/melvinchia3636/vanilla-tweaks">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=vanillaTweaks&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
-<a href="https://github.com/anuraghazra/melvinchia3636/codeblog_blog">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblog_blog&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
+<a href="https://github.com/anuraghazra/melvinchia3636/IRC">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=IRC&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 
 <br/>
