@@ -23,6 +23,7 @@
   ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
   ![skills](https://img.shields.io/badge/-DJANGO-FF0000?style=for-the-badge&logo=django&logoColor=white&color=darkgreen)
   ![skills](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=green)
   ![skills](https://img.shields.io/badge/-FIGMA-FF0000?style=for-the-badge&logo=figma&logoColor=white&color=red)
   
 </div>
