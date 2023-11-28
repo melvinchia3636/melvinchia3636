@@ -31,19 +31,19 @@
 <h1 align="center">About Me! 😎</h1>
 <div align="center"> 
   
-  🏫: I'm a 17 years old Senior High School Student.
+  🏫: I'm a 17-year-old Senior High School Student.
   
-  🔭: I’m currently working on lots of cool web apps.
+  🔭: I’m currently working on an ultimate personal management system.
   
-  🌱: I’m currently learning how to spam codes and a bunch of Meths. 🖥
+  🌱: I’m currently learning how to write better code and do a bunch of weird Meths ;-; 🖥
   
   🤔: I’m looking for help with something that can give me motivation! 💪
   
-  💬: Ask me about Meths, Web scraping, Javscript, Python, databases, API, UI designs, and anything about web development.
+  💬: Ask me about Meths, Web scraping, Javascript, React, Svelte, Python, databases, API, UI/UX designs, and anything about web development.
   
   😄  Pronouns: He/His
   
-  ⚡  Fun fact: I always start new projects before finishing old one. 🙃
+  ⚡  Fun fact: I am currently studying in the business stream in high school for some unexplainable reason. 🙃
   
   
 </div>
