@@ -31,9 +31,9 @@
 <h1 align="center">About Me! 😎</h1>
 <div align="center"> 
   
-  🏫: I'm a 17-year-old Senior High School Student.
+  🏫: I'm an 18-year-old, about to graduate from high school.
   
-  🔭: I’m currently working on an ultimate personal management system.
+  🔭: I’m currently working on an ultimate personal management system called Lifeforge.
   
   🌱: I’m currently learning how to write better code and do a bunch of weird Meths ;-; 🖥
   
