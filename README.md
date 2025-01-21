@@ -43,7 +43,7 @@
   
   😄  Pronouns: He/His
   
-  ⚡  Fun fact: I am currently studying in the business stream in high school for some unexplainable reason. 🙃
+  ⚡  Fun fact: I used to be studying in the business stream back in high school for some unexplainable reason. 🙃
   
   
 </div>
