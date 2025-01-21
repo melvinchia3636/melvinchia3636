@@ -31,7 +31,7 @@
 <h1 align="center">About Me! 😎</h1>
 <div align="center"> 
   
-  🏫: I'm an 18-year-old, about to graduate from high school.
+  🏫: I'm a 19-year-old, freshly graduated from high school.
   
   🔭: I’m currently working on an ultimate personal management system called Lifeforge.
   
