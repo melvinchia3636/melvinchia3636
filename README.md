@@ -65,9 +65,6 @@
 <a href="https://github.com/melvinchia3636/personalManagementSystem">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=personalManagementSystem&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
-<a href="https://github.com/anuraghazra/melvinchia3636/colorpix">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=colorpix&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
 
 <br/>
 
