@@ -31,15 +31,15 @@
 <h1 align="center">About Me! 😎</h1>
 <div align="center"> 
   
-  🏫: I'm a 19-year-old, freshly graduated from high school.
+  🏫: I'm a 19-year-old, studying software engineering in Taylor's University
   
   🔭: I’m currently working on an ultimate personal management system called Lifeforge.
   
-  🌱: I’m currently learning how to write better code and do a bunch of weird Meths ;-; 🖥
+  🌱: I’m currently striving to achieve programming maturity ;-; 🖥
   
-  🤔: I’m looking for help with something that can give me motivation! 💪
+  🤔: I’m looking for help with something that can contribute to Lifeforge! 💪
   
-  💬: Ask me about Meths, Web scraping, Javascript, React, Svelte, Python, databases, API, UI/UX designs, and anything about web development.
+  💬: Ask me about Web scraping, Javascript, React, Svelte, Python, databases, API, UI/UX designs, and anything about web development.
   
   😄  Pronouns: He/His
   
