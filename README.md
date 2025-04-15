@@ -50,6 +50,13 @@
 
 <br/>
 
+<h1 align="center">My Code Time Statistics ☕️</h1>
+<div align="center">
+  <img align="center" width="99%" src="https://lifeforge-api-proxy.onrender.com/code-time/readme" />
+</div>
+
+<br/>
+
 <h1 align="center">My Github Statistics 📈</h1>
 <div align="center">
   <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
