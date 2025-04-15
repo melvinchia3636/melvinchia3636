@@ -51,9 +51,8 @@
 <br/>
 
 <h1 align="center">My Code Time Statistics ☕️</h1>
-<div align="center">
-  <img align="center" width="99%" src="https://lifeforge-api-proxy.onrender.com/code-time/readme" />
-</div>
+
+![Codetime Readme](https://lifeforge-api-proxy.onrender.com/code-time/readme)
 
 <br/>
 
