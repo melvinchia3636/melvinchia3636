@@ -52,7 +52,7 @@
 
 <h1 align="center">My Code Time Statistics ☕️</h1>
 
-![Codetime Readme](https://lifeforge-api-proxy.onrender.com/code-time/readme?fesgrdthfg)
+![Codetime Readme](https://d09kkw9e24ge.melvinchia.dev/code-time/readme?fesgrdthfg)
 
 <br/>
 
