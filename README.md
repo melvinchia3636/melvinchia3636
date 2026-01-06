@@ -57,20 +57,8 @@
 <br/>
 
 <h1 align="center">My Github Statistics 📈</h1>
-<div align="center">
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinchia3636&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinchia3636&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
-</div>
 
 [![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=melvinchia3636&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/melvinchia3636)
-
-<br/>
-
-<h1 align="center">Projects I'm Working On ⌨️</h1>
-
-<a href="https://github.com/melvinchia3636/personalManagementSystem">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=personalManagementSystem&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
 
 <br/>
 
@@ -79,12 +67,6 @@
   
   <a href="mailto:melvinchia623600@gmail.com">
     <img src="https://img.shields.io/badge/-MELVINCHIA623600@GMAIL.COM-FF0000?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
-  </a>
-  <a href="https://facebook.com/TheSillyCoder">
-    <img src="https://img.shields.io/badge/-THE_SILLY_CODER-FF0000?style=for-the-badge&logo=facebook&logoColor=white&color=blue" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCsSf5dUsiQYfEucaJlusXngr">
-    <img src="https://img.shields.io/badge/-SILLY_CODER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
  </div>
